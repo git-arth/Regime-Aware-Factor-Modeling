@@ -13,7 +13,7 @@ This repository contains the end-to-end research, implementation, and backtestin
 ## Technical Implementation
 
 ### 1. Factor Extraction (PCA)
-To address the "curse of dimensionality" and eliminate multi-collinearity across 11 US Sector ETFs, I utilized **Principal Component Analysis (PCA)**[cite: 20, 64]. This transformation compresses 15 years of daily returns into orthogonal principal components, ensuring alpha factors represent unique sources of risk.
+To address the "curse of dimensionality" and eliminate multi-collinearity across 11 US Sector ETFs, I utilized **Principal Component Analysis (PCA)**. This transformation compresses 15 years of daily returns into orthogonal principal components, ensuring alpha factors represent unique sources of risk.
 
 ### 2. Regime Detection (HMM)
 The strategy implements a **Hidden Markov Model (HMM)** to identify latent market states (e.g., High-Volatility Bear vs. Low-Volatility Bull). The model dynamically reallocates capital based on the detected probability of the current regime, maximizing defensive stability during market dislocations.
