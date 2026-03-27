@@ -1,5 +1,5 @@
 # Regime-Aware Factor Modeling: PCA & HMM Strategy
-### [cite_start]Quantitative Research & Portfolio Optimization for GTSF ($2.6M Endowment) [cite: 19, 63]
+### Quantitative Research & Portfolio Optimization for GTSF ($2.6M Endowment)
 
 This repository contains the end-to-end research, implementation, and backtesting of a multi-factor equity strategy developed for the **GTSF Investments Committee**[cite: 17, 62]. [cite_start]The model utilizes dimensionality reduction and state-space modeling to extract orthogonal alpha signals and dynamically manage risk across 15 years of daily market data.
 
