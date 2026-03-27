@@ -1,12 +1,12 @@
 # Regime-Aware Factor Modeling: PCA & HMM Strategy
 
-This repository contains the end-to-end research, implementation, and backtesting of a multi-factor equity strategy developed for the **GTSF Investments Committee**[cite: 17, 62]. [cite_start]The model utilizes dimensionality reduction and state-space modeling to extract orthogonal alpha signals and dynamically manage risk across 15 years of daily market data.
+This repository contains the end-to-end research, implementation, and backtesting of a multi-factor equity strategy developed for the GTSF Investments Committee Quant Mentorship. The model utilizes dimensionality reduction and state-space modeling to extract orthogonal alpha signals and dynamically manage risk across 15 years of daily market data.
 
 ## Impact & Results
 **Risk-Adjusted Performance**: Achieved a **1.2 Sharpe Ratio** in long-term backtesting.
 **Risk Mitigation**: Realized a **35% reduction in portfolio volatility** relative to the benchmark.
 **Information Density**: Captured **>80% of systematic variance** through compressed factor signals.
-**Institutional Context**: Strategically applied toward the management of a **$2.6M student-run endowment fund**.
+**Institutional Context**: Strategically explores predictive trading model development to later be applied to **$2.6M student-run endowment fund**.
 
 ---
 
